@@ -1,4 +1,10 @@
 # Laboratorio-git
 Octavio Navarro
 
-## Cambios en repo remoto 
+## Github
+
+![Github logo](/images/github-logo.png)
+
+## References
+
+- [Markdown Guide](https://www.markdownguide.org/)
