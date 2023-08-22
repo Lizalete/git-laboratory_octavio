@@ -1,8 +1,8 @@
 # Laboratorio-git
 Octavio Navarro
-
-Marcos Saade 
-A01784220
+Lorena Estefania Chewtat Torres A01785378
+Marcos Saade A01784220
+Aquiba Yudah Benarroch Bittan A01783710
 
 ## Github
 
