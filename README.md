@@ -8,3 +8,6 @@ Octavio Navarro
 ## References
 
 - [Markdown Guide](https://www.markdownguide.org/)
+
+Lorena Estefania Chewtat Torres
+A01785378
