@@ -7,4 +7,3 @@ print(f'sum {a}+{b}={a+b}')
 # Display the subtraction
 print(f'sub {a}-{b}={a-b}')
 
-# Display multiplication
